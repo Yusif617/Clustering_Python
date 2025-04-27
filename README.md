@@ -1,6 +1,6 @@
 # **Iris Classification using Clustering**
 
-This repository contains a Jupyter Notebook (`Iris_classification (1).ipynb`) that demonstrates the application of various clustering algorithms (K-Means, Hierarchical Clustering, and DBSCAN) to the Iris dataset for classification purposes. The project aims to group the Iris flowers into their respective species based on their physical measurements.
+This repository contains a Jupyter Notebook (`Iris_classification.ipynb`) that demonstrates the application of various clustering algorithms (K-Means, Hierarchical Clustering, and DBSCAN) to the Iris dataset for classification purposes. The project aims to group the Iris flowers into their respective species based on their physical measurements.
 
 ## **Table of Contents**
 
